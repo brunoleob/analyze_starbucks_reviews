@@ -1,19 +1,14 @@
-# Analyze starbucks reviews
-This project is an in-depth analysis of a Starbucks review dataset, with the goal of uncovering insights into customer perceptions and identifying areas for improvement.
+# Análise de avaliações do Starbucks
+Este projeto é uma análise aprofundada de um conjunto de dados de avaliações do Starbucks, com o objetivo de descobrir as percepções dos clientes e identificar áreas para melhoria.
 
-# Repository Contents
-starbucks_reviews_analysis.ipynb: The Jupyter notebook containing the complete data analysis.
-reviews_data.csv: The dataset used for the analysis, sourced from Kaggle.
+# Conteúdos do Repositório
+starbucks_reviews_analysis.ipynb: O notebook Jupyter contendo a análise completa dos dados. reviews_data.csv: O conjunto de dados usado para a análise, obtido do Kaggle. https://www.kaggle.com/datasets/harshalhonde/starbucks-reviews-dataset
 
-# Project Summary
-This analysis involved the cleaning and categorization of review data, followed by an in-depth examination of term frequency related to customer service. The findings revealed that both positive and negative reviews emphasize the service as a crucial point of the customer experience, regardless of the rating given.
+# Resumo do Projeto
+Esta análise envolveu a limpeza e categorização dos dados de avaliações, seguida por um exame detalhado da frequência de termos relacionados ao atendimento ao cliente. As descobertas revelaram que tanto as avaliações positivas quanto as negativas enfatizam o serviço como um ponto crucial da experiência do cliente, independentemente da nota dada.
 
-Methodology
-Data preprocessing to remove missing values and normalize the ratings.
-Categorization of reviews into 'bad', 'medium', and 'good'.
-Analysis of word frequency, bigrams, and trigrams.
-Contextualization to understand how terms relate to customer service.
-Visualizations
-The notebook includes various visualizations, such as bar charts and word clouds, that help to illustrate the most important data points and conclusions of the analysis.
+# Metodologia
+Pré-processamento de dados para remover valores faltantes e normalizar as classificações. Categorização de avaliações em 'ruim', 'médio' e 'bom'. Análise da frequência de palavras, bigramas e trigramas. Contextualização para entender como os termos se relacionam com o atendimento ao cliente.
 
-
+Visualizações
+O notebook inclui várias visualizações, como gráficos de barras e nuvens de palavras, que ajudam a ilustrar os pontos de dados mais importantes e as conclusões da análise.
