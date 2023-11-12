@@ -10,5 +10,8 @@ Esta análise envolveu a limpeza e categorização dos dados de avaliações, se
 # Metodologia
 Pré-processamento de dados para remover valores faltantes e normalizar as classificações. Categorização de avaliações em 'ruim', 'médio' e 'bom'. Análise da frequência de palavras, bigramas e trigramas. Contextualização para entender como os termos se relacionam com o atendimento ao cliente.
 
-Visualizações
+# Visualizações
 O notebook inclui várias visualizações, como gráficos de barras e nuvens de palavras, que ajudam a ilustrar os pontos de dados mais importantes e as conclusões da análise.
+
+# Conclusão
+A análise das avaliações do Starbucks destacou o atendimento ao cliente como um fator determinante na satisfação do cliente. As avaliações, positivas ou negativas, consistentemente apontam a interação com os funcionários como um elemento central da experiência da marca. Este projeto reforça a importância de um atendimento ao cliente de qualidade e fornece insights valiosos que podem ser utilizados para melhorar a experiência do cliente nas lojas Starbucks em todo o mundo.
