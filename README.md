@@ -2,9 +2,10 @@
 Este projeto é uma análise aprofundada de um conjunto de dados de avaliações do Starbucks, com o objetivo de descobrir as percepções dos clientes e identificar áreas para melhoria.
 
 # Conteúdos do Repositório
-starbucks_reviews_analysis.ipynb: O notebook Jupyter contendo a análise completa dos dados.  
 
-reviews_data.csv: O conjunto de dados usado para a análise, obtido do Kaggle. https://www.kaggle.com/datasets/harshalhonde/starbucks-reviews-dataset
+starbucks_reviews_analysis.ipynb: O notebook Jupyter contendo a análise completa dos dados.<br>
+reviews_data.csv: O conjunto de dados usado para a análise, obtido do Kaggle. [Dataset do Kaggle](https://www.kaggle.com/datasets/harshalhonde/starbucks-reviews-dataset)
+
 
 # Resumo do Projeto
 Esta análise envolveu a limpeza e categorização dos dados de avaliações, seguida por um exame detalhado da frequência de termos relacionados ao atendimento ao cliente. As descobertas revelaram que tanto as avaliações positivas quanto as negativas enfatizam o serviço como um ponto crucial da experiência do cliente, independentemente da nota dada.
